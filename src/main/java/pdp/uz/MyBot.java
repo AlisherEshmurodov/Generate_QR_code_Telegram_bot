@@ -34,7 +34,6 @@ import java.util.*;
 import java.util.List;
 
 public class MyBot extends TelegramLongPollingBot {
-
     List<User> users = new ArrayList<>();
 
     @Override
